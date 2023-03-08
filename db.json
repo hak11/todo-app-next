@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "body": "some comment",
+      "completed": false
+    }
+  ]
+}
